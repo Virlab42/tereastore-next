@@ -20,12 +20,12 @@ export async function generateMetadata({ params }) {
         title: `Купить ${items.name} с доставкой по России`,
         description: `${items.description}`,
         alternates: {
-            canonical: `https://iqos-iluma.com/products/product-info/${items.type}/${items.ref}`
+            canonical: `https://tereastore.ru/products/product-info/${items.type}/${items.ref}`
           },
         openGraph: {
             title: `Купить ${items.name} с доставкой по России`,
             description: `${items.description}`,
-            url: `https://iqos-iluma.com/products/product-info/${items.type}/${items.ref}`,
+            url: `https://tereastore.ru/products/product-info/${items.type}/${items.ref}`,
             images: [
                 {
                     url: `/images/${items.image}`,

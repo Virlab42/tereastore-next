@@ -9,17 +9,17 @@ async function fetchItems() {
 }
 
 export async function generateMetadata() {
-    const title = 'Купить стики Heets в IqosIluma с доставкой по России';
+    const title = 'Купить стики Heets в TereaStore с доставкой по России';
     return {
         title,
         description: 'Каталог стиков Heets с доставкой по всей России. Лучший выбор вкусов и брендов!',
         alternates: {
-            canonical: `https://iqos-iluma.com/products/heets`
+            canonical: `https://tereastore.ru/products/heets`
           },
           openGraph: {
-              title: `Купить стики Heets в IlumaPrime с доставкой по России`,
+              title: `Купить стики Heets в TereaStore с доставкой по России`,
               description: `Каталог стиков Heets с доставкой по всей России. Лучший выбор вкусов и брендов!`,
-              url: `https://iqos-iluma.com/products/heets`,
+              url: `https://tereastore.ru/products/heets`,
               images: [
                   {
                       url: `/favicon/web-app-manifest-512x512`,

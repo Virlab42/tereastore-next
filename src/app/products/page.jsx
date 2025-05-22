@@ -7,14 +7,14 @@ import Exclusive from '../../../components/Home/Exclusive/Exclusive'
 
 export const metadata = {
     title: "Купить IQOS ILUMA и стики Terea с доставкой по России",
-    description: "Каталог устройств IQOS ILUMA и стиков Terea. Только оригинальная продукция. Быстрая доставка. IqosIluma.",
+    description: "Каталог устройств IQOS ILUMA и стиков Terea. Только оригинальная продукция. Быстрая доставка. TereaStore.",
     alternates: {
-      canonical: `https://iqos-iluma.com/products`
+      canonical: `https://tereastore.ru/products`
     },
     openGraph: {
         title: `Купить IQOS ILUMA и стики Terea с доставкой по России`,
-        description: `Каталог устройств IQOS ILUMA и стиков Terea. Только оригинальная продукция. Быстрая доставка. IqosIluma.`,
-        url: `https://iqos-iluma.com/products`,
+        description: `Каталог устройств IQOS ILUMA и стиков Terea. Только оригинальная продукция. Быстрая доставка. TereaStore.`,
+        url: `https://tereastore.ru/products`,
         images: [
             {
                 url: `/favicon/web-app-manifest-512x512`,

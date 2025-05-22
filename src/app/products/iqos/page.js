@@ -8,17 +8,17 @@ async function fetchItems() {
 }
 
 export async function generateMetadata() {
-    const title = 'Купить устройства IQOS ILUMA в IqosIluma с доставкой по России';
+    const title = 'Купить устройства IQOS ILUMA в TereaStore с доставкой по России';
     return {
         title,
         description: 'Каталог устройств IQOS ILUMA с доставкой по всей России. Лучший выбор вкусов и брендов!',
         alternates: {
-            canonical: `https://iqos-iluma.com/products/iqos`
+            canonical: `https://tereastore.ru/products/iqos`
           },
           openGraph: {
-              title: `Купить устройства IQOS ILUMA в IqosIluma с доставкой по России`,
+              title: `Купить устройства IQOS ILUMA в TereaStore с доставкой по России`,
               description: `Каталог устройствв IQOS ILUMA с доставкой по всей России. Лучший выбор вкусов и брендов!`,
-              url: `https://iqos-iluma.com/products/iqos`,
+              url: `https://tereastore.ru/products/iqos`,
               images: [
                   {
                       url: `/favicon/web-app-manifest-512x512`,

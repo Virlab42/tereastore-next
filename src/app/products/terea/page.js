@@ -9,17 +9,17 @@ async function fetchItems() {
 }
 
 export async function generateMetadata() {
-    const title = 'Купить стики Terea в IqosIluma с доставкой по России';
+    const title = 'Купить стики Terea в TereaStore с доставкой по России';
     return {
         title,
         description: 'Купить стики Terea с доставкой. Лучший выбор вкусов и брендов!',
         alternates: {
-            canonical: `https://iqos-iluma.com/products/terea`
+            canonical: `https://tereastore.ru/products/terea`
           },
           openGraph: {
               title: `Купить стики Terea в IlumaPrime с доставкой по России`,
               description: `Купить стики Terea с доставкой. Лучший выбор вкусов и брендов!`,
-              url: `https://iqos-iluma.com/products/terea`,
+              url: `https://tereastore.ru/products/terea`,
               images: [
                   {
                       url: `/favicon/web-app-manifest-512x512`,

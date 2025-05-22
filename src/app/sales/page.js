@@ -2,15 +2,15 @@ import React from 'react'
 import './style.scss'
 
 export const metadata = {
-    title: "Скидки и акции в магазине IqosIluma",
-    description: "Скидки и акции в магазине IqosIluma - покупайте премиальные устройства IQOS ILUMA и стики Terea по привлекательным ценам",
+    title: "Скидки и акции в магазине TereaStore",
+    description: "Скидки и акции в магазине TereaStore - покупайте премиальные устройства IQOS ILUMA и стики Terea по привлекательным ценам",
     alternates: {
-      canonical: `https://iqos-iluma.com/sales`
+      canonical: `https://tereastore.ru/sales`
     },
     openGraph: {
-        title: `Скидки и акции в магазине IqosIluma`,
-        description: `Скидки и акции в магазине IqosIluma - покупайте премиальные устройства IQOS ILUMA и стики Terea по привлекательным ценам`,
-        url: `https://iqos-iluma.com/sales`,
+        title: `Скидки и акции в магазине TereaStore`,
+        description: `Скидки и акции в магазине TereaStore - покупайте премиальные устройства IQOS ILUMA и стики Terea по привлекательным ценам`,
+        url: `https://tereastore.ru/sales`,
         images: [
             {
                 url: `/favicon/web-app-manifest-512x512`,
