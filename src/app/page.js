@@ -9,15 +9,15 @@ import Exclusive from "../../components/Home/Exclusive/Exclusive";
 import Reviews from "../../components/Home/Reviews/Reviews";
 
 export const metadata = {
-  title: "IQOS ILUMA и TEREA в Москве - IqosIluma",
+  title: "IQOS ILUMA и TEREA в Москве - TereaStore",
   description: "IQOS Iluma и стики Terea недорого и с доставкой по всей России. Стики Terea для IQOS Iluma — попробуйте и откройте для себя новый уровень наслаждения!",
   alternates: {
-    canonical: `https://iqos-iluma.com`
+    canonical: `https://tereastore.ru`
   },
   openGraph: {
-      title: `IQOS ILUMA и TEREA в Москве - IqosIluma`,
+      title: `IQOS ILUMA и TEREA в Москве - TereaStore`,
       description: `IQOS Iluma и стики Terea недорого и с доставкой по всей России. Стики Terea для IQOS Iluma — попробуйте и откройте для себя новый уровень наслаждения!`,
-      url: `https://iqos-iluma.com`,
+      url: `https://tereastore.ru`,
       images: [
           {
               url: `/favicon/web-app-manifest-512x512`,

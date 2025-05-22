@@ -17,7 +17,7 @@ export async function generateMetadata() {
             canonical: `https://tereastore.ru/products/terea`
           },
           openGraph: {
-              title: `Купить стики Terea в IlumaPrime с доставкой по России`,
+              title: `Купить стики Terea в TereaStore с доставкой по России`,
               description: `Купить стики Terea с доставкой. Лучший выбор вкусов и брендов!`,
               url: `https://tereastore.ru/products/terea`,
               images: [
